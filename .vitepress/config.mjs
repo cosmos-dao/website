@@ -36,7 +36,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/cosmos-dao' }
     ],
     footer: {
-      message: 'Dev by atmon3r, Bitcanna-Lab, Cosmos-dao team',
+      message: 'Dev by atmon3r, Bitcanna-Lab team',
       //copyright: 'Dev by <a href="https://github.com/yyx990803">Bitcanna-Lab</a>'
     },
     /* search: {
