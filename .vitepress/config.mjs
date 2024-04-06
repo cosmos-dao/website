@@ -33,7 +33,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/cosmos-dao' }
     ],
     footer: {
       message: 'Dev by atmon3r, Bitcanna-Lab, Cosmos-dao team',
