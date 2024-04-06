@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Open app
-      link: /markdown-examples
+      link: https://app.cosmos-dao.com/
     - theme: alt
       text: Documentation
       link: /documentation/
