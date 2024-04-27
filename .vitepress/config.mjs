@@ -6,6 +6,7 @@ export default defineConfig({
   description: "Cosmos-dao",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: 'https://i.imgur.com/Li40CHL.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Documentation', link: '/documentation/' }
